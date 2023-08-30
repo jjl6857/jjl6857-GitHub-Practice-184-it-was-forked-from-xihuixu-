@@ -1,4 +1,4 @@
-
+jjl6857-GitHub-Practice-184-it-was-forked-from-xihuixu-
 # GitHub Pages Assignment
 
 **(10 pts) Assignment Instructions**
@@ -51,7 +51,7 @@
 | Trevor Bunch            | Section 002       | TrevBunch            | https://github.com/TrevBunch/GitHub-Practice-184         |
 | Nayli Mohd Haniff       | Section 002       | NayliHaniff          | https://github.com/NayliHaniff/GitHub-Practice-184       |
 | Jack Engleman           | Section 002       | jackengleman         | https://github.com/jackengleman/Practice-STAT-184        |
-
+| JIAXI LI                | Section 002       | jjl6857              | https://github.com/jjl6857/jjl6857-GitHub-Practice-184-it-was-forked-from-xihuixu- |
 
 # Integration of RStudio with Git
 
